@@ -9,8 +9,7 @@ BSA’s algorithmic structure enables it to benefit from previous generation pop
 
 References:
 
-Pinar Civicioglu(2013): Backtracking Search Optimization Algorithm for numerical optimization problems
-http://dx.doi.org/10.1016/j.amc.2013.02.017
+Pinar Civicioglu(2013): Backtracking Search Optimization Algorithm for numerical optimization problem. http://dx.doi.org/10.1016/j.amc.2013.02.017
 
 Bryar A. Hassan, Tarik A. Rashid (2019). Framework for Recent Advances in Backtracking Search Optimisation Algorithm: A Systematic Review and Performance Evaluation, Applied Mathematics and Computation, 124919,
 https://doi.org/10.1016/j.amc.2019.124919
