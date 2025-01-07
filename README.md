@@ -13,5 +13,8 @@ References:
 
 Pinar Civicioglu(2013): Backtracking Search Optimization Algorithm for numerical optimization problem. http://dx.doi.org/10.1016/j.amc.2013.02.017
 
+P. Civicioglu, "Backtracking Search Optimization Algorithm for 
+numerical optimization problems", Applied Mathematics and Computation, 219, 8121�8144, 2013.
+
 Bryar A. Hassan, Tarik A. Rashid (2019). Framework for Recent Advances in Backtracking Search Optimisation Algorithm: A Systematic Review and Performance Evaluation, Applied Mathematics and Computation, 124919,
 https://doi.org/10.1016/j.amc.2019.124919
